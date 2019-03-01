@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="774.751" height="632.631" viewBox="0 0 774.751 632.631">
+  <g id="site-logo-shape-larged" transform="translate(-91 -224)">
+    <g id="word-shape" transform="translate(-213.732 -1178)">
+      <text id="W" transform="translate(358.636 1484)" fill="#363350" font-size="87" font-family="Raleway-Medium, Raleway" font-weight="500" opacity="0.6"><tspan x="0" y="0">W</tspan></text>
+      <g id="undraw_teaching_f1cm" transform="translate(304.732 1464.356)">
+        <path id="Path_11" data-name="Path 11" d="M3.913,0H770.838c2.161,0,3.913,2.575,3.913,5.752v558.77c0,3.177-1.752,5.752-3.913,5.752H3.913C1.752,570.275,0,567.7,0,564.523V5.752C0,2.575,1.752,0,3.913,0Z" transform="translate(0 -0.356)" fill="#e8e5ff"/>
+        <path id="Path_10" data-name="Path 10" d="M118.87,482H893.621v23.108c0,6.222-3.431,11.265-7.662,11.265H126.532c-4.232,0-7.662-5.043-7.662-11.265Z" transform="translate(-118.87 53.902)" fill="#b8b6dd" opacity="0.1"/>
+      </g>
+    </g>
+    <g id="logo-and-site-name" transform="translate(41)">
+      <text id="BagOfWords" transform="translate(237.653 600)" fill="#5a78fe" font-size="82" font-family="Raleway-Bold, Raleway" font-weight="700"><tspan x="0" y="0">BagOfWords</tspan></text>
+      <g id="logo" transform="translate(132 520)">
+        <g id="shopping-bag" transform="translate(0 0)">
+          <path id="Path_1" data-name="Path 1" d="M24.025.591h87.4v65.79H24.1Z" transform="translate(-20.008 -0.591)" fill="#d07c3f"/>
+          <path id="Path_2" data-name="Path 2" d="M.394,17.425V85.252c0,3.3,2.829,5.12,6.329,5.12H89.369c3.5,0,6.329-1.824,6.329-5.12V17.425C95.7,17.5.468,17.425.394,17.425ZM13.8,6.272,4.861.591V14.619H13.8V6.272ZM91.23.591,82.3,6.2v8.417H91.23Z" transform="translate(-0.328 -0.591)" fill="#eec65d"/>
+          <path id="Path_3" data-name="Path 3" d="M13.473,42.635V32.1L0,42.635ZM81.954,32.1V42.635H95.5Z" transform="translate(0 -26.83)" fill="#dca34f"/>
+          <path id="Path_4" data-name="Path 4" d="M94.206,185.7a3.654,3.654,0,0,0-3.622,3.622,3.611,3.611,0,0,0,3.622,3.622,3.654,3.654,0,0,0,3.622-3.622A3.57,3.57,0,0,0,94.206,185.7Zm44.123,0a3.654,3.654,0,0,0-3.622,3.622,3.611,3.611,0,0,0,3.622,3.622,3.654,3.654,0,0,0,3.622-3.622A3.571,3.571,0,0,0,138.329,185.7Z" transform="translate(-70.403 -152.542)" fill="#d07c3f"/>
+        </g>
+        <text id="W-2" data-name="W" transform="translate(3.91 82.962)" fill="#5a78fe" font-size="81" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">W</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

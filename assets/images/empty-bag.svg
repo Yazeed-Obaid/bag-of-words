@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="561.648" height="531.713" viewBox="0 0 561.648 531.713">
+  <defs>
+    <filter id="Path_2" x="0" y="0" width="561.648" height="531.713" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="hero-section" transform="translate(-1089.501 -221.5)">
+    <g id="_of_my_words" data-name="# of my words" transform="translate(831 -139.468)">
+      <g id="empty-bag">
+        <path id="Path_1" data-name="Path 1" d="M24.025.591H497.832V357.243H24.433Z" transform="translate(278.753 372.877)" fill="#b8b6dd" opacity="0.5"/>
+        <g transform="matrix(1, 0, 0, 1, 258.5, 360.97)" filter="url(#Path_2)">
+          <path id="Path_2-2" data-name="Path 2" d="M.394,91.85v367.7C.394,477.417,15.732,487.3,34.7,487.3h448.03c18.971,0,34.309-9.886,34.309-27.758V91.85C517.042,92.23.8,91.85.394,91.85ZM73.047,31.39,24.612.591V76.64H73.048V31.39ZM492.824.591l-48.436,30.42V76.64h48.436Z" transform="translate(22.11 11.91)" fill="#b8b6dd"/>
+        </g>
+        <path id="Path_3" data-name="Path 3" d="M73.037,89.22V32.1L0,89.22ZM444.278,32.1V89.219h73.441Z" transform="translate(281 369.93)" fill="#b8b6dd"/>
+      </g>
+      <g id="_of_my_words-2" data-name="# of my words">
+        <text id="Words" transform="translate(449 773)" fill="#363350" font-size="60" font-family="Raleway-Regular, Raleway"><tspan x="0" y="0">Words</tspan></text>
+        <text id="_0" data-name="0" transform="translate(493 656)" fill="#363350" font-size="150" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">0</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

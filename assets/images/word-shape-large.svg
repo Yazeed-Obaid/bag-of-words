@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="774.751" height="632.631" viewBox="0 0 774.751 632.631">
+  <g id="word-shape-large" transform="translate(-1051 -224)">
+    <text id="W" transform="translate(1104.904 306)" fill="#363350" font-size="87" font-family="Raleway-Medium, Raleway" font-weight="500" opacity="0.6"><tspan x="0" y="0">W</tspan></text>
+    <g id="undraw_teaching_f1cm" transform="translate(1051 286.356)">
+      <path id="Path_11" data-name="Path 11" d="M3.913,0H770.838c2.161,0,3.913,2.575,3.913,5.752v558.77c0,3.177-1.752,5.752-3.913,5.752H3.913C1.752,570.275,0,567.7,0,564.523V5.752C0,2.575,1.752,0,3.913,0Z" transform="translate(0 -0.356)" fill="#e8e5ff"/>
+      <path id="Path_10" data-name="Path 10" d="M118.87,482H893.621v23.108c0,6.222-3.431,11.265-7.662,11.265H126.532c-4.232,0-7.662-5.043-7.662-11.265Z" transform="translate(-118.87 53.902)" fill="#b8b6dd" opacity="0.1"/>
+    </g>
+    <g id="signup-quote" transform="translate(960 88)">
+      <text id="Add_a_word_give_an_example_of_your_own._And_you_are_done_" data-name="Add a word, give an example of your own. And you are done!" transform="translate(155 344)" fill="#696788" font-size="36" font-family="Raleway-Regular, Raleway"><tspan x="0" y="34">Add a word, give an example of your </tspan><tspan x="0" y="76">own. And you are done!</tspan></text>
+      <text id="Thinking_of_an_example_on_a_word_will_dig_deep_in_your_muscle_memory_and_you_will_remember_it_easily_" data-name="Thinking of an example on a word will dig deep in your muscle memory, and you will remember it easily!" transform="translate(155 494)" fill="#696788" font-size="36" font-family="Raleway-Regular, Raleway"><tspan x="0" y="34">Thinking of an example on a word will </tspan><tspan x="0" y="76">dig deep in your muscle memory, and </tspan><tspan x="0" y="118">you will remember it easily!</tspan></text>
+    </g>
+  </g>
+</svg>

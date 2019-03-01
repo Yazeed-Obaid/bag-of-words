@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="771" height="395" viewBox="0 0 771 395">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="771" height="395" transform="translate(1149 1112)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="letters-shape" transform="translate(-1149 -1112)" clip-path="url(#clip-path)">
+    <g id="Group_10" data-name="Group 10" transform="matrix(0.974, -0.225, 0.225, 0.974, 278.571, 168.894)">
+      <path id="Union_1" data-name="Union 1" d="M0,852.173V0H31.352A424.289,424.289,0,0,1,297.046,92.965h96.363a5.81,5.81,0,1,1,0,11.62H310.98q7.594,6.61,14.856,13.558h121.92a9.684,9.684,0,0,1,0,19.367H344.84q6.129,6.654,11.968,13.558h36.6a5.81,5.81,0,0,1,0,11.621H366.294a424.24,424.24,0,0,1,91.145,263.4c0,141.718-69.191,267.28-175.631,344.743h84.726a5.81,5.81,0,1,1,0,11.621H265.009q-6.718,4.414-13.616,8.582h145.17a6.361,6.361,0,1,1,0,12.721H228.814A424.3,424.3,0,0,1,31.352,852.173Z" transform="translate(533.827 1680.69) rotate(-90)" fill="#e8e5ff"/>
+      <g id="letters" transform="translate(535.763 1659.897) rotate(-90)">
+        <text id="H" transform="translate(56.14 124.091)" fill="#b8b6dd" font-size="37" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">H</tspan></text>
+        <text id="U" transform="translate(66.537 279.968)" fill="#b8b6dd" font-size="36" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">U</tspan></text>
+        <text id="Y" transform="translate(166.341 89.229)" fill="#b8b6dd" font-size="37" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">Y</tspan></text>
+        <text id="F" transform="translate(137.232 199.561)" fill="#b8b6dd" font-size="35" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">F</tspan></text>
+        <text id="C" transform="translate(239.116 265.474)" fill="#b8b6dd" font-size="37" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">C</tspan></text>
+        <text id="N" transform="translate(336.841 333.261)" fill="#b8b6dd" font-size="37" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">N</tspan></text>
+        <text id="A" transform="translate(155.945 333.261)" fill="#b8b6dd" font-size="37" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">A</tspan></text>
+        <text id="V" transform="translate(264.067 401.047)" fill="#b8b6dd" font-size="37" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">V</tspan></text>
+        <text id="W" transform="translate(155.945 444.592)" fill="#b8b6dd" font-size="36" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">W</tspan></text>
+        <text id="Q" transform="translate(272.384 167.636)" fill="#b8b6dd" font-size="36" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">Q</tspan></text>
+        <text id="I" transform="translate(83.171 425.225)" fill="#b8b6dd" font-size="36" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">I</tspan></text>
+        <text id="P" transform="translate(20.793 358.438)" fill="#b8b6dd" font-size="37" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">P</tspan></text>
+        <text id="L" transform="translate(49.902 683.75)" fill="#b8b6dd" font-size="35" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">L</tspan></text>
+        <text id="R" transform="translate(218.323 714.802)" fill="#b8b6dd" font-size="37" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">R</tspan></text>
+        <text id="B" transform="translate(264.067 498.885)" fill="#b8b6dd" font-size="38" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">B</tspan></text>
+        <text id="O" transform="translate(214.165 587.913)" fill="#b8b6dd" font-size="36" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">O</tspan></text>
+        <text id="K" transform="translate(124.756 530.81)" fill="#b8b6dd" font-size="37" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">K</tspan></text>
+        <text id="S" transform="translate(45.744 580.165)" fill="#b8b6dd" font-size="36" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">S</tspan></text>
+        <text id="Z" transform="translate(297.335 631.521)" fill="#b8b6dd" font-size="37" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">Z</tspan></text>
+        <text id="M" transform="translate(361.793 462.023)" fill="#b8b6dd" font-size="36" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">M</tspan></text>
+        <text id="G" transform="translate(128.915 644.015)" fill="#b8b6dd" font-size="34" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">G</tspan></text>
+        <text id="D" transform="translate(0 800.893)" fill="#b8b6dd" font-size="34" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">D</tspan></text>
+        <text id="X" transform="translate(99.805 769.968)" fill="#b8b6dd" font-size="36" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">X</tspan></text>
+        <text id="E" transform="translate(2.079 477.517)" fill="#b8b6dd" font-size="36" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">E</tspan></text>
+        <text id="J" transform="translate(20.793 192.814)" fill="#b8b6dd" font-size="36" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">J</tspan></text>
+        <text id="T" transform="translate(6.238 34)" fill="#b8b6dd" font-size="36" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">T</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

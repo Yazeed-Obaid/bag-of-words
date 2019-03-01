@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="561.648" height="531.713" viewBox="0 0 561.648 531.713">
+  <defs>
+    <filter id="Path_2" x="0" y="0" width="561.648" height="531.713" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="hero-section-shape-_-words" data-name="hero-section-shape-#-words" transform="translate(-258.5 -360.968)">
+    <g id="letters_group_1" data-name="letters group # 1">
+      <text id="V" transform="translate(704.757 418.117) rotate(-180)" fill="#363350" font-size="70" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">V</tspan></text>
+      <text id="C" transform="translate(657.757 453.849) rotate(-90)" fill="#363350" font-size="70" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">C</tspan></text>
+      <text id="M" transform="translate(534.757 479.849)" fill="#363350" font-size="70" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">M</tspan></text>
+      <text id="Y" transform="translate(458.013 443.96) rotate(45)" fill="#363350" font-size="70" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">Y</tspan></text>
+      <text id="W" transform="translate(411.368 490.487) rotate(-45)" fill="#363350" font-size="70" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">W</tspan></text>
+    </g>
+    <g id="hero-section-bag" transform="translate(-175.578 228)">
+      <g id="shopping-bag" transform="translate(456.578 145.468)">
+        <path id="Path_1" data-name="Path 1" d="M24.025.591H497.832V357.243H24.433Z" transform="translate(-2.247 -0.591)" fill="#b8b6dd" opacity="0.5"/>
+        <g transform="matrix(1, 0, 0, 1, -22.5, -12.5)" filter="url(#Path_2)">
+          <path id="Path_2-2" data-name="Path 2" d="M.394,91.85v367.7C.394,477.417,15.732,487.3,34.7,487.3h448.03c18.971,0,34.309-9.886,34.309-27.758V91.85C517.042,92.23.8,91.85.394,91.85ZM73.047,31.39,24.612.591V76.64H73.048V31.39ZM492.824.591l-48.436,30.42V76.64h48.436Z" transform="translate(22.11 11.91)" fill="#b8b6dd"/>
+        </g>
+        <path id="Path_3" data-name="Path 3" d="M73.037,89.22V32.1L0,89.22ZM444.278,32.1V89.219h73.441Z" transform="translate(0 -3.538)" fill="#b8b6dd"/>
+      </g>
+    </g>
+  </g>
+</svg>
