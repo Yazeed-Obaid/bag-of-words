@@ -1,6 +1,6 @@
-import { meta, link } from './assets/js/siteHeadData.js';
+import { meta, link } from './assets/js/siteHeadData.js'
 
-const pkg = require('./package');
+const pkg = require('./package')
 
 module.exports = {
   mode: 'universal',
@@ -20,7 +20,8 @@ module.exports = {
    */
   head: {
     title: pkg.name,
-    meta: [{
+    meta: [
+      {
         charset: 'utf-8'
       },
       {
@@ -60,7 +61,8 @@ module.exports = {
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
-    '@nuxtjs/pwa'
+    '@nuxtjs/pwa',
+    '@nuxtjs/dotenv'
   ],
   /*
    ** Axios module configuration
@@ -97,7 +99,7 @@ module.exports = {
       plugins: {
         'postcss-font-magician': {
           variants: {
-            'Raleway': {
+            Raleway: {
               '400': [],
               '500': [],
               '700': []

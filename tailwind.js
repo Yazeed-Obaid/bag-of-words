@@ -43,7 +43,6 @@ View the full documentation at https://tailwindcss.com.
 */
 
 const colors = {
-
   'blue-dark': '#363350',
   blue: '#5A78FE',
   'blue-light': '#B8B6DD',
@@ -70,7 +69,7 @@ const colors = {
   red: '#e3342f',
   'red-light': '#ef5753',
   'red-lighter': '#f9acaa',
-  'red-lightest': '#fcebea',
+  'red-lightest': '#fcebea'
 
   // 'orange-darkest': '#462a16',
   // 'orange-darker': '#613b1f',
@@ -233,14 +232,8 @@ module.exports = {
       'Courier New',
       'monospace'
     ],
-    raleway: [
-      'Raleway',
-      'sans-serif'
-    ],
-    'open-sans': [
-      'Open Sans',
-      'sans-serif'
-    ]
+    raleway: ['Raleway', 'sans-serif'],
+    'open-sans': ['Open Sans', 'sans-serif']
   },
 
   /*
@@ -424,9 +417,12 @@ module.exports = {
   |
   */
 
-  borderColors: global.Object.assign({
-    default: colors['grey-light']
-  }, colors),
+  borderColors: global.Object.assign(
+    {
+      default: colors['grey-light']
+    },
+    colors
+  ),
 
   /*
   |-----------------------------------------------------------------------------
@@ -929,16 +925,14 @@ module.exports = {
     function({ addUtilities }) {
       const rotationZUtilities = {
         '.rotateZ-90deg': {
-          transform: 'rotateZ(90deg)',
+          transform: 'rotateZ(90deg)'
         },
         '.rotateZ-180deg-counter': {
-          transform: 'rotateZ(-180deg)',
+          transform: 'rotateZ(-180deg)'
         }
       }
-    
       addUtilities(rotationZUtilities, ['responsive'])
     }
-    
   ],
 
   /*
