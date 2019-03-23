@@ -1,7 +1,6 @@
 <template>
   <header class="font-raleway">
     <section class="container h-24 mx-auto flex justify-between items-center">
-      <site-logo />
       <div>
         <img
           src="~/assets/images/menu-icon-open.svg"
@@ -9,11 +8,12 @@
           @click="toogleSideMenu"
         >
       </div>
+      <site-logo />
     </section>
     <transition name="slide-fade">
       <nav
         v-show="show"
-        class="absolute pin-t pin-r w-2/3 h-screen bg-blue-lightest z-20"
+        class="absolute pin-t pin-l w-2/3 h-screen bg-blue-lightest z-20"
       >
         <div class="container h-24">
           <img
