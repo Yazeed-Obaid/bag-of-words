@@ -26,7 +26,9 @@ try {
   }
 }
 
-export default {
-  auth,
-  firestore
+// Injecting firebase auth and firestore to nuxt context,
+// individual copoments and store.
+export default ({ app }, inject) => {
+  inject('auth', auth)
+  inject('firestore', firestore)
 }
