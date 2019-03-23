@@ -18,3 +18,11 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
+
+## What I have used?
+* NuxtJS
+* TailwindCSS
+* PostCSS plugins: postcss-font-magician, fullhuman/postcss-purgecss, cssnano and autoprefixer
+* momentJS
+* cross-env
+* firebase
