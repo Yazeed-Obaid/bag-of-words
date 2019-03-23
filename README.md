@@ -1,6 +1,6 @@
-# pwa-news
+# bag-of-words
 
-> My pioneering Nuxt.js project
+> My pioneering Nuxt.js, Tailwindcss and Firebase project :)
 
 ## Build Setup
 
@@ -18,5 +18,3 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
