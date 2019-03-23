@@ -19,7 +19,7 @@
           <img
             src="~/assets/images/menu-icon-close.svg"
             alt=""
-            class="absolute pin-r mt-8 mr-14"
+            class="pin-l mt-8 ml-16"
             @click="toogleSideMenu"
           >
         </div>
@@ -92,6 +92,7 @@ export default {
   mounted() {
     EventBus.$on('activateLink', linkId => {
       this.activateLink(linkId)
+      this.toogleSideMenu()
     })
   },
   methods: {
